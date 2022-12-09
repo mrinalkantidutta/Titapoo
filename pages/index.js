@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hi, This is Mrinal, Welcome to my first project!" />
         <p className="description">
-          I will come back with more editing <code>pages/index.js</code>
+          I will come back with more editing.
         </p>
       </main>
 
