@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hi, This is Mrinal, Welcome to my first project!" />
         <p className="description">
-          I will come back with more editing.
+          I will come back with more editing with help of Supriyo and Rangan.
         </p>
       </main>
 
