@@ -3,10 +3,10 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 function downloadPDFMKDCV() {
-  let pdfUrl = '/MKD_CV.pdf';
+  let pdfUrl = '/My CV_Canva.pdf';
   let a = document.createElement('a');
   a.href = pdfUrl;
-  a.download = 'MKD_CV.pdf';
+  a.download = 'My CV_Canva.pdf';
   a.click();
 }
 export default function Home() {
