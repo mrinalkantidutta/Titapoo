@@ -18,7 +18,7 @@ export default function Home() {
       </Head>
            
       <main>
-              <Header title="Hi, This is Mrinal, Welcome to my first project!" />
+              <Header title="Hi, This is Mrinal Kanti Dutta, Welcome to my first project!" />
         <button onClick={downloadPDFMKDCV}>Download My Resume</button>
         <p className="description">
           I will come back with more editing with help of Supriyo and Rangan.
